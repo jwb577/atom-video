@@ -4,7 +4,7 @@
 
 | welcome view             | call view                           |
 | ------------------------ | ----------------------------------- |
-| ![](https://github.com/mertkahyaoglu/atom-video/blob/master/screenshot.png?raw=true)| ![](https://github.com/mertkahyaoglu/atom-video/blob/master/screenshot2.png?raw=true) |
+| ![](screenshot.png)| ![](screenshot2.png) |
 
 # Features
 * Call multiple friends

@@ -1,20 +1,38 @@
 {
-  "name": "atom-video",
-  "main": "./lib/atom/main.js",
-  "version": "0.1.1",
-  "description": "Atom Video Package",
-  "keywords": [
-    "atom video",
-    "video",
-    "video chat"
+  "_from": "https://www.atom.io/api/packages/atom-video/versions/0.1.1/tarball",
+  "_id": "atom-video@0.1.1",
+  "_inBundle": false,
+  "_integrity": "sha512-g5/NpQvMipkM29rk0TckCXrd3YzcZuUEA9RQFNR2sRidYt/OlC/En/qoXx4UPleW6aNmevPdaaUuKKcc26ZjOw==",
+  "_location": "/atom-video",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/atom-video/versions/0.1.1/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/atom-video/versions/0.1.1/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/atom-video/versions/0.1.1/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/atom-video/versions/0.1.1/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
   ],
+  "_resolved": "https://www.atom.io/api/packages/atom-video/versions/0.1.1/tarball",
+  "_shasum": "73d72a0dc579dfd64b6ac7fd26a9ab7325db978f",
+  "_spec": "https://www.atom.io/api/packages/atom-video/versions/0.1.1/tarball",
+  "_where": "/private/var/folders/w3/y9wy1cx94811m_6vdp919vqm0000gn/T/apm-install-dir-118107-58927-qgxesj.o9z8",
   "activationCommands": {
     "atom-workspace": "atom-video:toggle"
   },
-  "repository": "https://github.com/mertkahyaoglu/atom-video",
-  "license": "MIT",
-  "engines": {
-    "atom": ">0.50.0"
+  "bugs": {
+    "url": "https://github.com/mertkahyaoglu/atom-video/issues"
+  },
+  "bundleDependencies": false,
+  "configSchema": {
+    "token": {
+      "title": "Github Token",
+      "type": "string",
+      "default": ""
+    }
   },
   "dependencies": {
     "jquery": "^2.2.3",
@@ -27,13 +45,26 @@
     "redux": "^3.3.1",
     "redux-logger": "^2.6.1",
     "redux-thunk": "^2.0.1",
-    "underscore-plus": "^1.6.6"
+    "underscore-plus": "^1.6.6",
+    "webrtc-adapter": "~6.1"
   },
-  "configSchema": {
-    "token": {
-      "title": "Github Token",
-      "type": "string",
-      "default": ""
-    }
-  }
+  "deprecated": false,
+  "description": "Atom Video Package",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/mertkahyaoglu/atom-video#readme",
+  "keywords": [
+    "atom video",
+    "video",
+    "video chat"
+  ],
+  "license": "MIT",
+  "main": "./lib/atom/main.js",
+  "name": "atom-video",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mertkahyaoglu/atom-video.git"
+  },
+  "version": "0.1.1"
 }
