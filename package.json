@@ -1,7 +1,7 @@
 {
   "name": "atom-video-lollipop-guild",
   "main": "./lib/atom/main.js",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "Atom Video Package",
   "keywords": [
     "atom video",
@@ -11,7 +11,7 @@
   "activationCommands": {
     "atom-workspace": "atom-video:toggle"
   },
-	"repository": "https://github.com/jwb577/atom-video-lollipop-guild",
+  "repository": "https://github.com/jwb577/atom-video-lollipop-guild",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
