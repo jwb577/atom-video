@@ -1,5 +1,5 @@
 {
-  "name": "atom-video",
+  "name": "atom-video-lollipop-guild",
   "main": "./lib/atom/main.js",
   "version": "0.5.0",
   "description": "Atom Video Package",
