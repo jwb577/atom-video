@@ -11,7 +11,7 @@
   "activationCommands": {
     "atom-workspace": "atom-video:toggle"
   },
-  "repository": "https://github.com/mertkahyaoglu/atom-video",
+	"repository": "https://github.com/jwb577/atom-video-lollipop-guild",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
